@@ -1,35 +1,57 @@
+/*styles the body*/
 body{
+    /*changes the background color*/
     background-color: antiquewhite;
+    /*changes the text color*/
     color:black;
 }
 
+/*styles the links*/
 nav{
+    /*adjusts the height*/
     height: 600px;
+    /*adjusts the width*/
     width: 200px;
+    /*adjusts the position*/
     float: left;
+    /*adjusts the position*/
     padding: 5px;
+    /*adjusts the position*/
     line-height: 30px;
 }
 
+/*styles the footer*/
 footer{
+    /*centers the text*/
     text-align: center;
+    /*pushes the text to the right*/
     margin-right: 200px;
+    /*anchors the text*/
     position: fixed;
+    /*anchors the text to the bottom*/
     bottom: 0%;
 }
 
+/*styles the meme*/
 #memeImage{
+    /*pushes the meme right*/
     margin-right: 200px;
 }
 
+/*styles the header*/
 header{
+    /*centers the text*/
     text-align: center;
 }
 
+/*styles the text index*/
 p{
+    /*enlarges the text size*/
     font-size: larger;
 }
 
+/*styles the text in boards*/
 ul{
+    /*enlarges the text size*/
     font-size: large;
 }
